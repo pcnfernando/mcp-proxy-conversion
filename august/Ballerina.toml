@@ -1,0 +1,8 @@
+[package]
+org = "devant"
+name = "wso2_meta_graphql_mcp"
+version = "1.0.0"
+distribution = "2201.13.6"
+
+[build-options]
+observabilityIncluded = true
